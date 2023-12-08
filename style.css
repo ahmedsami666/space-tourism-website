@@ -225,7 +225,7 @@ h3{
 }
 /*technology*/
 .main-tech {
-    background-image: url(./assets/technology/background-technology-desktop.jpg);
+    background-image: url(../space-tourism-website-main/assets/technology/background-technology-desktop.jpg);
     grid-gap: 0;
     padding-bottom: 5%;
 }
@@ -520,8 +520,5 @@ h3{
     }
     .tech-data-div{
         padding: 0;
-    }
-    .main-tech{
-        background-image: url(../starter-code/assets/technology/background-technology-mobile.jpg);
     }
 }
