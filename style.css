@@ -352,6 +352,8 @@ h3{
     .Explore-container{
         padding-top: 15%;
         padding-bottom: 15%;
+        align-self: center;
+        justify-self: center;
     }
     /*destination*/
     .destination-img{
@@ -448,7 +450,7 @@ h3{
         padding: 4%;
     }
     .main{
-        padding: 0 0 15%;
+        padding: 0 0 25%;
     }
     .main-content{
         padding: 15% 5% 10%;
@@ -456,13 +458,21 @@ h3{
     .main-content h1{
         font-size: 90px;
     }
+    .Explore-container{
+        align-items: center;
+        justify-items: center;
+    }
     .Explore{
         width: 12rem;
         height: 12rem;
+        align-self: center;
+        justify-self: center;
     }
     .Explore-bg{
         width: 20rem;
         height: 20rem;
+        align-self: center;
+        justify-self: center;
     }
     .destination-data h2{
         font-size: 70px;
